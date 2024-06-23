@@ -1,2 +1,5 @@
+/*
+  Content-Security-Policy: script-src 'self' 'unsafe-eval';
+  
 /Build/*
   Content-Encoding: gzip
