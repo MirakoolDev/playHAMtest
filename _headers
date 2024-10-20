@@ -1,0 +1,4 @@
+Content-Security-Policy: frame-ancestors 'self' https://blockscout.com https://*.blockscout.com;
+Access-Control-Allow-Origin: https://blockscout.com
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: Content-Type, Authorization
